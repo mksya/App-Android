@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mon Premier Jeu</string>
+    <string name="str_MagicNumber">Trouver le magic number</string>
+    <string name="str_score">Score</string>
+    <string name="str_indication">Indication</string>
+    <string name="str_nombre_de_tentatives">Nombre de tentatives</string>
+    <string name="str_ValSup">Valeur supérieure</string>
+    <string name="str_ValInf">Valeur inférieure</string>
+    <string name="str_bravo">Bravo</string>
+    <string name="Rejouer">Rejouer</string>
+    <string name="RejouerQ">Rejouer?</string>
+    <string name="Quitter">Quitter</string>
+    <string name="oui">Oui</string>
+</resources>

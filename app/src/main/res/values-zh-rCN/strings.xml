@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的第一移动应用程序</string>
+    <string name="Quitter">出口</string>
+    <string name="oui">确认</string>
+    <string name="RejouerQ">继续？</string>
+    <string name="Rejouer">继续</string>
+    <string name="str_bravo">祝贺</string>
+    <string name="str_indication">暗示</string>
+    <string name="str_nombre_de_tentatives">尝试数量</string>
+    <string name="str_score">比分</string>
+    <string name="str_MagicNumber">找到魔法数字</string>
+    <string name="str_ValSup">数字太高！</string>
+    <string name="str_ValInf">数字太低！</string>
+</resources>

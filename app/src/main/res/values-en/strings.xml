@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First Game</string>
+    <string name="str_MagicNumber">Find the magic number</string>
+    <string name="str_score">Score</string>
+    <string name="str_indication">Hint</string>
+    <string name="str_nombre_de_tentatives">Attempts counter</string>
+    <string name="str_ValSup">Your  number is too  big !</string>
+    <string name="str_ValInf">Your number is too small !</string>
+    <string name="str_bravo">Well done</string>
+    <string name="Rejouer">Replay</string>
+    <string name="RejouerQ">Replay?</string>
+    <string name="oui">Yes</string>
+    <string name="Quitter">Exit</string>
+</resources>
